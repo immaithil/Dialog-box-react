@@ -1,6 +1,8 @@
-# Getting Started with Create React App
+# Simple dialog box created with help of react
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+hosted link https://amazing-goodall-989e62.netlify.app/
+
+I have devided this app into various components which are reusable and created it with help of functional way. I used hooks to perform their functionality.
 
 ## Available Scripts
 
